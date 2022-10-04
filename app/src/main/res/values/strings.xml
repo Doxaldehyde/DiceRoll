@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <string name="Roll">Roll</string>
+    <string name="powerBy">DoxPro</string>
+</resources>
